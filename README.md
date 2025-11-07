@@ -2,11 +2,13 @@
 
 > A face search platform for events - Find yourself and your friends in event photos with ease!
 
-## 🎯 About
+Graduation Project of Thadoe Hein , Jessica Win 
+
+##  About
 
 FindMeInTheCrowd is an innovative platform that helps event attendees find their photos from large event galleries using facial recognition technology. Whether it's a concert, conference, festival, or party, our platform makes it easy to locate all the photos where you appear.
 
-## 📂 Public Repositories
+##  Public Repositories
 
 Our platform consists of multiple components. Currently, the following web portals are open source:
 
@@ -53,39 +55,7 @@ The machine learning and Python-based components (including facial recognition m
 - **Mobile Responsive**: Works seamlessly on all devices
 - **User Friendly**: Intuitive interface for both attendees and organizers
 
-## 🚀 Getting Started
-
-### Public Interface
-
-```bash
-# Clone the repository
-git clone https://github.com/FindMeInTheCrowd/public-interface-nextjs.git
-
-# Install dependencies
-cd public-interface-nextjs
-npm install
-
-# Run development server
-npm run dev
-```
-
-Visit `http://localhost:3000` to see the application.
-
-### Admin Portal
-
-```bash
-# Clone the repository
-git clone https://github.com/FindMeInTheCrowd/admin-portal.git
-
-# Install dependencies
-cd admin-portal
-npm install
-
-# Run development server
-npm run dev
-```
-
-## 🛠️ Development
+##  Development
 
 Both web applications are built with:
 - **Framework**: Next.js with App Router
@@ -95,18 +65,18 @@ Both web applications are built with:
 - **Form Handling**: React Hook Form
 - **Validation**: Zod
 
-## 📝 License
+##  License
 
 The public repositories are available for reference and learning. Please check individual repository licenses for specific terms.
 
-## 🤝 Contributing
+##  Contributing
 
 While the ML components are proprietary, we welcome contributions to our public web interfaces! Please feel free to:
 - Report bugs
 - Suggest features
 - Submit pull requests for the public repositories
 
-## 📧 Contact
+##  Contact
 
 For inquiries about the platform or partnership opportunities, please reach out through GitHub issues in the respective repositories.
 
