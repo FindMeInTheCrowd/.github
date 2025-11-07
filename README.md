@@ -33,7 +33,7 @@ The administrative interface for event organizers and administrators to:
 - Manage user access and permissions
 
 **Tech Stack:**
-- Next.js
+- Next.js 15
 - React 18
 - TypeScript
 - Tailwind CSS
